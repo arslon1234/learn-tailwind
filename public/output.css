@@ -652,6 +652,9 @@ video {
 .h-\[500px\] {
   height: 500px;
 }
+.h-full {
+  height: 100%;
+}
 .w-\[500px\] {
   width: 500px;
 }
@@ -666,6 +669,9 @@ video {
 }
 .w-\[\] {
   width: ;
+}
+.w-full {
+  width: 100%;
 }
 .flex-shrink {
   flex-shrink: 1;
